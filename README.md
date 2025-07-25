@@ -13,6 +13,7 @@ We will open souce the whole pipeline after the code review of Ant Group soon.
 ## News
 
 * ⚡️ [2025/07/25]  We first open source part of our data, which is built based on environments in BFCLv3 and contains more than 70k data.
+  The data is available at [ModelScope]([https://github.com/inclusionAI/AWorld?tab=readme-ov-file](https://www.modelscope.cn/datasets/hbg400/Open-Agentic-tool-use))
 
 ## Introduction
 
@@ -21,6 +22,8 @@ We will open souce the whole pipeline after the code review of Ant Group soon.
 Here we first build API relationship graphs for the eight environments from BFCLv3, select several relationship graphs for API sampling and random parameter construction, and then further check whether these APIs can be are executed in the environment. Then, the user agent generates questions based on the sampled API and environment feedback, use GPT-4o and Claude-4 for majority voting verification, and then use QwQ-32B to complete the thought chain and check it. Finally, we split each round of data in multiple rounds into a single round and perform SFT.
 
 The data here is in a 100% executable standard format and can also be used for reinforcement learning training.
+
+**Performance: Qwen2.5-7B-Instruct from near 0% acc on BFCLv3 multi-turn to 30% acc with simple SFT!**
 
 ## Acknowledgements
 
