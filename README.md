@@ -4,7 +4,7 @@ Real-world tool-using is the last step for LLM to help the humanity.
 
 ## Overview
 
-Here, we present a open reproduction the **Large-Scale Agentic Data Synthesis for Tool Use Learning** of Kimi K2, which is a part of the open-sourced progarm of [AWorld](https://github.com/inclusionAI/AWorld?tab=readme-ov-file), inclusion AI.
+Here, we present a open reproduction the **Large-Scale Agentic Data Synthesis for Tool Use Learning** of Kimi K2, which is a part of the open-sourced progarm of [AWorld](https://github.com/inclusionAI/AWorld?tab=readme-ov-file), inclusion AI. Data is available at [here](https://www.modelscope.cn/datasets/hbg400/Open-Agentic-tool-use).
 
 Our Goal is to build a general data synthesis pipeline for multi-turn tool-use in various environments
 
@@ -13,7 +13,7 @@ We will open souce the whole pipeline after the code review of Ant Group soon.
 ## News
 
 * ⚡️ [2025/07/25]  We first open source part of our data, which is built based on environments in BFCLv3 and contains more than 70k data.
-  The data is available at ![ModelScope](https://www.modelscope.cn/datasets/hbg400/Open-Agentic-tool-use))
+  The data is available at [ModelScope](https://www.modelscope.cn/datasets/hbg400/Open-Agentic-tool-use).
 
 ## Introduction
 
