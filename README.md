@@ -34,7 +34,7 @@ We are especially grateful to the BFCL and other teams for building high-perform
 If you find this project is useful in your own work, please consider citing as follows:
 
 ```
-@misc{openr1,
+@misc{Open-Agentic-tool-use,
     title = {Open-Agentic-tool-use},
     url = {https://github.com/BingguangHao/Open-Agentic-tool-use},
     author = {{Aworld team, inclusionAI}},
