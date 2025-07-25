@@ -1,6 +1,6 @@
 # Open-Agentic-tool-use
 
-Real-world tool-using is the last step for LLM to help the humanity.
+Real-world tool-using is the last step.
 
 ## Overview
 
